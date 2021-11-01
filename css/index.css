@@ -1,0 +1,104 @@
+/* 头部导航 */
+.nav {
+    width: 100%;
+    height: 40px;
+    /* background: tan; */
+}
+
+.nav-center {
+    width: 1190px;
+    height: 40px;
+    background-color: skyblue;
+    margin: 0 auto;
+}
+
+/* 搜索区域 */
+ .header {
+     width: 100%;
+     height: 157px;
+     /* background: tomato; */
+     margin-top: 10px;
+ }
+ .header-center {
+    width: 1190px;
+    height: 157px;
+    background: darkseagreen;
+    margin: 0 auto;
+}
+
+/* 主体区域 */
+.bodyer {
+    width: 100%;
+    height: 427px;
+    /* background: darkturquoise; */
+    margin-top: 10px;
+}
+.bodyer-center {
+    width: 1190px;
+    height: 427px;
+    background: deepskyblue;
+    margin: 0 auto;
+}
+
+/* 猫眼电影 */
+.movie {
+    width: 100%;
+    height: 342px;
+    margin-top: 10px;
+}
+.movie-center {
+    width: 1190px;
+    height: 342px;
+    background: gold;
+    margin: 0 auto;
+}
+
+/* 民宿 */
+.hotel {
+    width: 100%;
+    height: 734px;
+    margin-top: 10px;
+}
+.hotel-center {
+    width: 1190px;
+    height: 734px;
+    background: pink;
+    margin: 0 auto;
+}
+/* 猜你喜欢 */
+.like {
+    width: 100%;
+    height: 758px;
+    margin-top: 10px;
+}
+.like-center {
+    width: 1190px;
+    height: 758px;
+    background: thistle;
+    margin: 0 auto;
+}
+/* 副导航 */
+.navbar {
+    width: 100%;
+    height: 350px;
+    margin-top: 10px;
+}
+.navbar-center {
+    width: 1190px;
+    height: 350px;
+    background: wheat;
+    margin: 0 auto;
+}
+
+/* 底部连接 */
+.footer {
+    width: 100%;
+    height: 350px;
+    margin-top: 10px;
+}
+.footer-center {
+    width: 1190px;
+    height: 350px;
+    background: wheat;
+    margin: 0 auto;
+}
