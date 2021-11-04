@@ -80,8 +80,73 @@
 .bodyer-center {
     width: 1190px;
     height: 427px;
-    background: deepskyblue;
+    /* background: deepskyblue; */
     margin: 0 auto;
+}
+
+/* 全部分类 */
+.bodyer-center-left {
+    width: 230px;
+    height: 475px;
+    /* background: #FE8C00; */
+    float: left;
+    margin-top: -50px;
+    border: 1px solid #E5E5E5;
+    position: relative;
+}
+
+/* 全部分类字体 */
+.bodyer-center-left span:nth-child(1){
+    color: #222;
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 15px;
+}
+
+/* 列表li的效果 */
+.bodyer-center-left ul li {
+    width: 218px;
+    height: 22px;
+    padding: 2px 0px 2px 12px;
+}
+.bodyer-center-left ul li span {
+    font-size: 13px;
+    line-height: 22px;
+    color: #646464;
+    cursor: pointer;  /* 鼠标光标形状 */
+}
+.bodyer-center-left ul li b {
+    position: absolute;
+    right: 13px;
+    color: #646464;
+    font-weight: 100;
+}
+.bodyer-center-left ul li:hover {
+    background: #FFF3CC;
+}
+.bodyer-center-left ul li span:hover {
+   color: #000;
+   font-weight: 600;
+}
+
+
+
+
+/* 轮播区域 */
+.bodyer-center-center {
+    width: 230px;
+    height: 475px;
+    background: pink;
+    float: left;
+}
+/* 注册登陆 */
+.bodyer-center-right {
+    width: 230px;
+    height: 475px;
+    background: darkseagreen;
+    float: left;
 }
 
 /* 猫眼电影 */
